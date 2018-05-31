@@ -62,6 +62,7 @@ Thursday 31st May (LAB, MOC, SA, DRG)
     * group 2 led by SA - repository [here](https://bitbucket.org/SilviaAmAm/tmcs_2018/src/master/)  
     * group 3 led by MOC - repository [here](https://github.com/mikeoconnor0308/tensorglove)
 * 12:00 - 13:00 guest lecture: Clare Macrae (developer @Cambridge Crystallographic Data Centre)
+    * [professional software development](proSoftwareDev2018.pptx)
 * 18:00 - 19:00 pizza/wine party!
 
 Friday 1st Jun (LAB, MOC, SA, DRG)
