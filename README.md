@@ -67,7 +67,7 @@ Thursday 31st May (LAB, MOC, SA, DRG)
 
 Friday 1st Jun (LAB, MOC, SA, DRG)
  
-* 11:00 - 16:00 hackathon
+* 10:00 - 16:00 hackathon
 * 16:00 - 17:00 show and tell
 
 
